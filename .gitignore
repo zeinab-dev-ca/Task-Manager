@@ -1,0 +1,5 @@
+.vs/ 
+appsettings.Development.json 
+TaskManager/appsettings.Development.json 
+TaskManager/bin/ 
+TaskManager/obj/ 
